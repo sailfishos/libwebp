@@ -1,7 +1,7 @@
 %global tools webp-tools
 
 Name:          libwebp
-Version:       1.4.0
+Version:       1.6.0
 Release:       1
 URL:           https://github.com/sailfishos/libwebp
 Summary:       Library and tools for the WebP graphics format
